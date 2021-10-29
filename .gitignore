@@ -1,3 +1,5 @@
 # large datasets
 datasets/mnist_train.csv
 datasets/mnist_test.csv
+
+.vscode/settings.json
